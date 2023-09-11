@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Autumn;
+  src: url("Autumn.otf");
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.heading {
+  font-family: autumn;
+}
+
+p {
+  /* text-transform */
+  /* text-decoration:line-through; */
+}
